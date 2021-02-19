@@ -51,9 +51,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
-- icon: github
-  icon_pack: fab
-  link: https://github.com/carterfunkhouser  
+- icon: cv
+  icon_pack: ai
+  link: media/FunkhouserCV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,5 +69,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a doctoral candidate in psychology at the University of Illinois at Chicago working in Dr. Stewart Shankman's lab at Northwestern University. I am broadly interested in the etiology and classification of depressive symptoms, as well as the comorbidity between depression and anxiety. I have used a variety of methods to study these topics, including psychophysiology (e.g., event-related potentials), experience sampling, longitudinal statistical methods (e.g., cross-lagged models), structural equation modeling, network analysis, and behavior genetics.
+I am a doctoral candidate in psychology at the University of Illinois at Chicago working in Dr. Stewart Shankman's lab at Northwestern University. I am broadly interested in the etiology and classification of depressive symptoms, as well as their comorbidity with anxiety. I have used a variety of methods to study these topics, including psychophysiology (e.g., event-related potentials), experience sampling, longitudinal statistical methods (e.g., cross-lagged models), structural equation modeling, network analysis, and behavior genetics.
 
