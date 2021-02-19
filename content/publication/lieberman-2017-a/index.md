@@ -42,7 +42,7 @@ projects: []
 publishDate: '2021-02-18T21:57:33.588712Z'
 publication_types:
 - '2'
-abstract: © 2017 Elsevier B.V. Emotion-modulated startle is a frequently used method
+abstract: Emotion-modulated startle is a frequently used method
   in affective science. Although there is a growing literature on the reliability
   of this measure, it is presently unclear how many startle responses are necessary
   to obtain a reliable signal. The present study therefore evaluated the reliability
