@@ -72,5 +72,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a doctoral candidate in psychology at the University of Illinois at Chicago working in Dr. Stewart Shankman's lab at Northwestern University. I am broadly interested in the etiology and classification of depressive symptoms, as well as their comorbidity with anxiety. I have used a variety of methods to study these topics, including psychophysiology (e.g., event-related potentials), experience sampling, longitudinal statistical methods (e.g., cross-lagged models), structural equation modeling, network analysis, and behavior genetics.
+I am a doctoral candidate in psychology at the University of Illinois at Chicago working in Dr. Stewart Shankman's lab at Northwestern University. I am broadly interested in the etiology and classification of depressive symptoms, as well as their comorbidity with anxiety and other psychopathologies. I have used a variety of methods to study these topics, including psychophysiology (e.g., event-related potentials), experience sampling, longitudinal statistical methods (e.g., cross-lagged models), structural equation modeling, network analysis, and behavior genetics.
 
