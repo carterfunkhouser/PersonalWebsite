@@ -46,7 +46,14 @@ projects: []
 publishDate: '2021-02-18T21:57:35.511467Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Background: The network theory suggests that psychopathology may reflect causal relationships between individual symptoms. Several studies have examined cross-sectional relationships between individual symptoms in youth. However, these studies cannot address the directionality of the temporal relationships hypothesized by the network theory. Therefore, we estimated the longitudinal relationships between individual internalizing, externalizing, and attention symptoms in youth.
+
+Methods: Data from 4,093 youth participants in the Adolescent Brain Cognitive Development (ABCD) study were used. Symptoms were assessed using the Brief Problem Monitor, which was administered at three time points spaced six months apart. Unique longitudinal relationships between symptoms at T1 and T2 were estimated using cross-lagged panel network modeling. Network replicability was assessed by comparing this network to an identically estimated replication network of symptoms at T2 predicting symptoms at T3.
+
+Results: After controlling for all other symptoms and demographic covariates, depressed mood, inattention, and worry at T1 were most predictive of other symptoms at T2. In contrast, threats of violence and destructiveness at T2 were most prospectively predicted by other symptoms at T1. The reciprocal associations between depressed mood and worthlessness were among the strongest bivariate relationships in the network. Comparisons between the original network and the replication network (correlation between edge lists = .61; individual edge replicability = 64%-84%) suggested moderate replicability.
+
+Conclusions: Although causal inferences are precluded by the observational design and methodological considerations, these findings demonstrate the directionality of relationships between individual symptoms in youth and highlight depressed mood, inattention, and worry as potential influencers of other symptoms.'
 publication: '*Journal of Child Psychology and Psychiatry*'
+url_pdf: https://psyarxiv.com/ux9ka/
 doi: 10.1111/jcpp.13256
 ---

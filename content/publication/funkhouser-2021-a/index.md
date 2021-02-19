@@ -37,8 +37,8 @@ projects: []
 publishDate: '2021-02-18T21:57:35.187214Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Affect dynamics reflect individual differences in how emotional information is processed, and may provide insights into how depressive episodes develop. To extend prior studies that examined affect dynamics in currently depressed individuals, the present study tested in 68 non-depressed young adults whether three well-established risk factors for major depressive disorder (MDD) - (a) past episodes of MDD, (b) family history of MDD, and (c) reduced neurophysiological responses to reward - predicted mean levels, instability, or inertia (i.e., inflexibility) of positive affect (PA) and/or negative affect (NA). Momentary PA and NA were assessed up to 6 times per day for 14 days (mean number of surveys completed = 45.89). MDD history and family history of MDD were assessed via semi-structured interview, and neurophysiological responses to reward were indexed using the Reward Positivity, an event-related potential related to depression. After adjusting for current depressive symptoms, results indicated that (a) past episodes of MDD predicted higher mean levels of NA, (b) family history of MDD predicted greater PA inertia, and (c) blunted reactivity to reward predicted greater NA inertia. Collectively, these results suggest that elevated mean levels of NA and inflexibility of PA and NA may be potential mechanisms that confer risk for depression.'
 publication: '*Journal of Psychiatric Research*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S002239562100008X
+url_pdf: https://psyarxiv.com/eapg6/
 doi: 10.1016/j.jpsychires.2021.01.007
 ---

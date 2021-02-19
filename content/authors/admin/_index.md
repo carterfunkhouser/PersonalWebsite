@@ -42,15 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:carterfunkhouser@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CarterFunkhous1
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=pGX6j8UAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/53e9m/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CarterFunkhous1
 - icon: cv
   icon_pack: ai
   link: media/FunkhouserCV.pdf
