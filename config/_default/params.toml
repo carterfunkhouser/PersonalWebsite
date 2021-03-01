@@ -273,7 +273,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-  google_site_verification = ""
+  google_site_verification = "8tsnHvT45Ehw5XbK-T_UtUpdCxb0bMaTNuDU4jy381Y"
 
 ############################
 ## Content Management System
