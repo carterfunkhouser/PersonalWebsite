@@ -20,6 +20,7 @@ interests:
  - Depression
  - Anxiety
  - Etiology
+ - Vulnerability
  - Psychometrics
 
 # Education to show in About widget
