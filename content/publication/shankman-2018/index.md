@@ -61,7 +61,6 @@ abstract: This study examined whether the Structured Clinical Interview for DSM 
   utility of the SCID to assess reliable and valid symptom severity dimensions of
   both current and lifetime psychopathology.
 publication: '*International Journal of Methods in Psychiatric Research*'
-url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/29034525 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5834362
-  http://doi.wiley.com/10.1002/mpr.1590
+url_pdf: publication/shankman-2018/SCID reliability paper.pdf
 doi: 10.1002/mpr.1590
 ---

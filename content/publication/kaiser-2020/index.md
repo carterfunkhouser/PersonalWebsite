@@ -57,4 +57,5 @@ abstract: Psychopathology research has increasingly sought to study the etiology
   with adequate levels of reliability and validity.
 publication: '*Psychiatry Research*'
 doi: 10.1016/j.psychres.2020.113313
+url_pdf: publication/kaiser-2020/Kaiser 2020_Test-retest & familial concordance of MDD symptoms.pdf
 ---

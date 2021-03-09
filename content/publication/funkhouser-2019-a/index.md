@@ -55,6 +55,7 @@ abstract: Non-suicidal self-injury is a risk factor for suicidal behavior, parti
   and may be a mechanism through which prior NSSI exposure leads to increased risk
   for suicidal behavior.
 publication: '*International Journal of Psychophysiology*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0167876018310481
+url_preprint: https://psyarxiv.com/u8gb2/
+url_pdf: publication/funkhouser-2019-a/Int J NSSI paper.pdf
 doi: 10.1016/J.IJPSYCHO.2019.04.008
 ---

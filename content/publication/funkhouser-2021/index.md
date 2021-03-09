@@ -54,6 +54,7 @@ Results: After controlling for all other symptoms and demographic covariates, de
 
 Conclusions: Although causal inferences are precluded by the observational design and methodological considerations, these findings demonstrate the directionality of relationships between individual symptoms in youth and highlight depressed mood, inattention, and worry as potential influencers of other symptoms.'
 publication: '*Journal of Child Psychology and Psychiatry*'
-url_pdf: https://psyarxiv.com/ux9ka/
+url_preprint: https://psyarxiv.com/ux9ka/
+url_pdf: publication/funkhouser-2021/Funkhouser 2021_JCPP.pdf
 doi: 10.1111/jcpp.13256
 ---
