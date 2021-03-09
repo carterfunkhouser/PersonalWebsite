@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Unique longitudinal relationships between symptoms of psychopathology in youth:
-  A cross-lagged panel network analysis in the ABCD study'
+title: 'Unique longitudinal relationships between symptoms of psychopathology in youth: A cross-lagged panel network analysis in the ABCD study'
 subtitle: ''
 summary: ''
 authors:
@@ -11,18 +10,7 @@ authors:
 - Kelly A. Correa
 - Ariela J. E. Kaiser
 - Stewart A. Shankman
-tags:
-- '"Clinical Child Psychology"'
-- '"Clinical Psychology"'
-- '"Mental Disorders"'
-- '"Psychiatry"'
-- '"Social and Behavioral Sciences"'
-- '"attention"'
-- '"externalizing"'
-- '"internalizing"'
-- '"network"'
-- '"psychopathology"'
-- '"youth"'
+tags: ""
 categories: []
 date: '2021-01-01'
 lastmod: 2021-02-18T15:57:35-06:00
@@ -58,4 +46,8 @@ url_preprint: https://psyarxiv.com/ux9ka/
 url_pdf: publication/funkhouser-2021/Funkhouser 2021_JCPP.pdf
 url_code: https://osf.io/paqj8/
 doi: 10.1111/jcpp.13256
+
+## Tried to add a tab for the news article, but didn't work
+#links = [{name = "Press", url = "https://www.acamh.org/research-digest/depressed-mood-influence-risk-for-other-symptoms-in-youth/"}]
+
 ---
