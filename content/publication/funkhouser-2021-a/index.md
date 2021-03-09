@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Depression Risk Factors and Affect Dynamics: An Experience Sampling Study'
+title: 'Depression risk factors and affect dynamics: An experience sampling study'
 subtitle: ''
 summary: ''
 authors:
