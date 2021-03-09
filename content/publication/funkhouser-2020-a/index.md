@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Social Feedback Valence Differentially Modulates the Reward Positivity, P300, and Late Positive Potential
+title: Social feedback valence differentially modulates the reward positivity, P300, and late positive potential
 subtitle: ''
 summary: ''
 authors:

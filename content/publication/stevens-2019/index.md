@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Startle during threat longitudinally predicts functional impairment independent
-  of DSM diagnoses.
+  of DSM diagnoses
 subtitle: ''
 summary: ''
 authors:
