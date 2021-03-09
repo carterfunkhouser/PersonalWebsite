@@ -56,5 +56,6 @@ Conclusions: Although causal inferences are precluded by the observational desig
 publication: '*Journal of Child Psychology and Psychiatry*'
 url_preprint: https://psyarxiv.com/ux9ka/
 url_pdf: publication/funkhouser-2021/Funkhouser 2021_JCPP.pdf
+url_code: https://osf.io/paqj8/
 doi: 10.1111/jcpp.13256
 ---

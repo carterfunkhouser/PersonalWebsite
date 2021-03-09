@@ -41,5 +41,6 @@ publication: '*Journal of Abnormal Psychology*'
 url_preprint: https://psyarxiv.com/2s6av/
 url_pdf: publication/funkhouser-2020/Funkhouser 2020 JAP.pdf
 url_code: https://osf.io/k7yuz/
+url_dataset: https://osf.io/g9sdw/
 doi: 10.1037/abn0000496
 ---
