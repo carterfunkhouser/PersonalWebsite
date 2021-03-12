@@ -12,6 +12,8 @@ weight: 90
 title: Recent Publications
 subtitle: ''
 
+description: Carter Funkhouser's publications
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication

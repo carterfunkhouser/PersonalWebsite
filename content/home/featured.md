@@ -15,6 +15,8 @@ weight: 80
 title: Representative Publications
 subtitle: ""
 
+description: Carter Funkhouser's representative publications
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
