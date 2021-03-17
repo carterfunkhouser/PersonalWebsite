@@ -24,18 +24,23 @@
 #  weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Representative Publications"
   url = "/#featured"
   weight = 50
+
+[[main]]
+  name = "Full List of Publications"
+  url = "/publication"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "/media/FunkhouserCV.pdf"
-    weight = 60
+    weight = 70
 
 [[main]]
   name = "Contact"
   url = "/#contact"
-  weight = 70
+  weight = 80

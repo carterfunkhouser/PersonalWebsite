@@ -6,11 +6,14 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+# Activate this widget? true/false
+active: false # CFnote: setting to false hides it on the homepage, but still allows it to be clicked on in the menu 
+
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: ''
+title: Full List of Publications
+subtitle: 'This is a list of all my published papers (in reverse chronological order) with links to PDF versions, preprints/postprints, data, and code whenever possible.'
 
 description: Carter Funkhouser's publications
 
@@ -29,7 +32,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
