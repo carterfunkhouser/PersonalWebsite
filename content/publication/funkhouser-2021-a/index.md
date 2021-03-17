@@ -9,7 +9,7 @@ authors:
 - Ariela J.E. Kaiser
 - Kira L. Alqueza
 - Vivian L. Carrillo
-- Lija M.K. Hoffman
+- Lija M. K. Hoffman
 - Carver B. Nabb
 - Randy P. Auerbach
 - Stewart A. Shankman
