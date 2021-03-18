@@ -5,7 +5,7 @@ title: 'Depression over time in persons with stroke: A network analysis approach
 subtitle: ''
 summary: ''
 authors:
-- Sameer A Ashaie
+- Sameer A. Ashaie
 - Jinyi Hung
 - Carter J. Funkhouser
 - Stewart A. Shankman
@@ -16,7 +16,7 @@ tags:
 - '"emotion"'
 - '"network analysis"'
 categories: []
-date: '2021-02-01'
+date: '2021-03-016'
 lastmod: 2021-02-18T15:57:36-06:00
 featured: false
 draft: false
