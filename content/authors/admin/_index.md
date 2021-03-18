@@ -50,9 +50,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
-#- icon: osf
-#  icon_pack: ai
-#  link: https://osf.io/53e9m/
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/53e9m/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarterFunkhous1
