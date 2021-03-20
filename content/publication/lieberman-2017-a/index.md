@@ -57,4 +57,5 @@ abstract: Emotion-modulated startle is a frequently used method
   threat-of-shock paradigm in the present study.
 publication: '*International Journal of Psychophysiology*'
 doi: 10.1016/j.ijpsycho.2017.01.012
+url_pdf: publication/lieberman-2017-a/Liebermanetal.2017reliabilitystartleNPU.pdf
 ---

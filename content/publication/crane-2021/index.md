@@ -63,4 +63,5 @@ abstract: 'Introduction: Disruptions in neural measures of reward responsiveness
   not necessarily among CU with current or remitted CUD.'
 publication: '*Addictive Behaviors*'
 doi: 10.1016/j.addbeh.2020.106669
+url_pdf: publication/crane-2021/Crane 2021_cannabis.pdf
 ---
