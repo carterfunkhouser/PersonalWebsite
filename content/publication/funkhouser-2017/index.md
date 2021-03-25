@@ -6,9 +6,9 @@ title: 'Evaluating peer-peer depression outreach: College students helping peers
 subtitle: ''
 summary: ''
 authors: 
-  -Carter J. Funkhouser
-  -Audrey L. Zakriski
-  -Janet D. Spoltore
+  - Carter J. Funkhouser
+  - Audrey L. Zakriski
+  - Janet D. Spoltore
 tags: []
 categories: []
 date: '2017-01-01'
