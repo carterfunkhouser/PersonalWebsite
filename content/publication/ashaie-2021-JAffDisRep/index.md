@@ -7,7 +7,7 @@ summary: ''
 authors:
 - "Sameer A. Ashaie"
 - "Jinyi Hung"
-- "**Carter J. Funkhouser**"
+- "Carter J. Funkhouser"
 - Stewart A. Shankman
 - Leora R. Cherney
 author_notes:
