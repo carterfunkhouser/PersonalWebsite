@@ -5,11 +5,14 @@ title: 'Depression over time in persons with stroke: A network analysis approach
 subtitle: ''
 summary: ''
 authors:
-- Sameer A. Ashaie
-- Jinyi Hung
-- Carter J. Funkhouser
+- "Sameer A. Ashaie"
+- "Jinyi Hung"
+- "**Carter J. Funkhouser**"
 - Stewart A. Shankman
 - Leora R. Cherney
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
 - '"stroke"'
 - '"depression"'
