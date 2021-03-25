@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Carter Funkhouser
+title: Carter J. Funkhouser
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Doctoral Candidate in Clinical Psychology
@@ -71,7 +71,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a doctoral candidate in clinical psychology at the University of Illinois at Chicago working in [Dr. Stew Shankman](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=42385)'s [lab](https://sites.northwestern.edu/nearlab/) at Northwestern University. My work broadly aims to identify etiological mechanisms and/or risk factors associated with psychopathology, with a particular interest in depression. I have examined psychopathological dimensions at various levels of granularity (e.g., disorders, individual symptoms), often testing the specificity versus commonality of etiological mechanisms or risk factors. This line of research has been informed by research and issues related to the classification of psychopathology (e.g., the Hierarchical Taxonomy of Psychopathology [[HiTOP]](https://hitop.unt.edu/introduction)), and has examined biobehavioral processes represented in the Research Domain Criteria ([RDoC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/index.shtml)) such as reward processing and threat sensitivity. An additional line of research has considered the possibility that there may be causal relationships between individual symptoms. 
