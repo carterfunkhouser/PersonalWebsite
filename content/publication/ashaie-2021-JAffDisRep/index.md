@@ -57,4 +57,5 @@ Conclusion:
 These results suggest that baseline network connectivity can predict the course of post-stroke depression, similar to non-stroke populations. More broadly, the study highlights the importance of examining relationships between individual depressive symptoms rather than only sum-scores.'
 publication: '*Journal of Affective Disorders Reports*'
 doi: 10.1016/j.jadr.2021.100131
+url_pdf: publication/ashaie-2021-JAffDisRep/Ashaie 2021_Depression over time in persons with stroke.pdf
 ---
