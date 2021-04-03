@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD in Clinical Psychology
     institution: University of Illinois at Chicago
     year: 2022 (expected)
   - course: MA in Clinical Psychology
