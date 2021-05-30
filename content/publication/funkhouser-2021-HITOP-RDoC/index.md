@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Evaluating the criterion validity of hierarchical psychopathology dimensions across models: Familial aggregation and associations with Research Domain Criteria (RDoC) (sub)constructs"
+title: "Evaluating the criterion validity of hierarchical psychopathology dimensions across models: Familial aggregation and associations with Research Domain Criteria (sub)constructs"
 authors:
 - Carter J. Funkhouser
 - Kelly A. Correa
@@ -10,7 +10,7 @@ authors:
 - Ryne Estabrook
 - Stewart A. Shankman
 date: 2021-03-17T10:13:56-05:00
-doi: ""
+doi: "10.1037/abn0000687"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-17T10:13:56-05:00
