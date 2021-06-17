@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-06-16T21:57:33.588712Z'
 publication_types:
 - '2'
-abstract: Background
+abstract: 'Background
 A history of childhood maltreatment predicts poorer functioning in several domains during childhood, including executive function (EF). While there is also evidence of poorer EF in adults with a history of childhood trauma, results are mixed. Notable limitations of previous research are (a) the use of single indicators of EF, and/or (b) not consistently assessing whether childhood maltreatment predicts poorer EF beyond internalizing psychopathology.
 
 Objective
@@ -48,7 +48,7 @@ Results
 Greater cumulative maltreatment predicted poorer EF (B = -0.15), and emotional neglect emerged as a unique predictor of EF (B = -0.18). These results remained after controlling for psychopathology symptoms. Gender moderated the relationship between physical abuse and EF, with physical abuse predicting poorer EF among males (B = 0.30), but not females (B = -0.04).
 
 Conclusions
-Overall, results indicate that general EF deficits are related to a history of childhood maltreatment, which is not accounted for by internalizing psychopathology symptoms. Potential implications and future directions are discussed.
+Overall, results indicate that general EF deficits are related to a history of childhood maltreatment, which is not accounted for by internalizing psychopathology symptoms. Potential implications and future directions are discussed.'
 publication: '*Child Abuse & Neglect*'
 doi: 10.1016/j.chiabu.2021.105140
 url_pdf: publication/Letkiewicz-2021-ChildAbuseNeglect/Letkiewicz 2021_ChildAbuseNeglect.pdf
