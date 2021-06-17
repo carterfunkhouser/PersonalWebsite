@@ -32,8 +32,7 @@ projects: []
 publishDate: '2021-06-16T21:57:33.588712Z'
 publication_types:
 - '2'
-abstract: 
-Background
+abstract: Background
 A history of childhood maltreatment predicts poorer functioning in several domains during childhood, including executive function (EF). While there is also evidence of poorer EF in adults with a history of childhood trauma, results are mixed. Notable limitations of previous research are (a) the use of single indicators of EF, and/or (b) not consistently assessing whether childhood maltreatment predicts poorer EF beyond internalizing psychopathology.
 
 Objective
