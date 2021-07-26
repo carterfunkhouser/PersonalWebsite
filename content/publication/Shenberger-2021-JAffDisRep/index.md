@@ -13,7 +13,7 @@ authors:
 tags:
 categories: []
 date: '2021-07-26'
-lastmod: 2021-07-26T15:57:36-06:00
+lastmod: 2021-07-25T15:57:36-06:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-26T21:57:36.642496Z'
+publishDate: '2021-07-25T21:57:36.642496Z'
 publication_types:
 - '2'
 abstract: 'Introduction: Prolonged attentional bias to threat (AB) is associated with posttraumatic stress disorder (PTSD). However, it is unclear whether this relationship extends to early threat detection (elicited by masked stimuli) and/or varies if AB is measured during an aversive context. 
