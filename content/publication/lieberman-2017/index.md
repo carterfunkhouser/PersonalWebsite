@@ -61,6 +61,6 @@ abstract: Posttraumatic stress symptoms (PTSS) are associated with significant d
   with neural indicators of threat and reward reactivity and may therefore have distinct
   pathophysiologies.
 publication: '*Journal of Psychiatric Research*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0022395616308500 http://www.ncbi.nlm.nih.gov/pubmed/28410485
+url_pdf: publication/lieberman-2017/Lieberman 2017_JPR.pdf
 doi: 10.1016/j.jpsychires.2017.04.002
 ---

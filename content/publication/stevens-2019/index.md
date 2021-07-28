@@ -59,6 +59,6 @@ abstract: Heightened responsivity to unpredictable, and perhaps predictable, thr
   of threat responding over and above DSM disorders and highlight the importance of
   distinguishing functional outcomes from symptom outcomes.
 publication: '*Psychiatry Research*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6713600/
+url_pdf: publication/stevens-2019/Stevens_2019.pdf
 doi: 10.1016/j.psychres.2019.02.072
 ---
