@@ -57,5 +57,6 @@ abstract: Non-suicidal self-injury is a risk factor for suicidal behavior, parti
 publication: '*International Journal of Psychophysiology*'
 url_preprint: https://psyarxiv.com/u8gb2/
 url_pdf: publication/funkhouser-2019-a/Int J NSSI paper.pdf
+url_poster: publication/funkhouser-2019-a/SPR2017Poster_final.pdf
 doi: 10.1016/J.IJPSYCHO.2019.04.008
 ---

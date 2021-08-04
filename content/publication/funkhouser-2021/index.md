@@ -45,6 +45,7 @@ publication: '*Journal of Child Psychology and Psychiatry*'
 url_preprint: https://psyarxiv.com/ux9ka/
 url_pdf: publication/funkhouser-2021/Funkhouser 2021_JCPP.pdf
 url_code: https://osf.io/paqj8/
+url_poster: publication/funkhouser-2021/SRP2019poster.pdf
 doi: 10.1111/jcpp.13256
 
 ## Tried to add a tab for the news article, but didn't work
