@@ -40,6 +40,6 @@ Results: Linear mixed effects models showed that an aversive context increased t
 Limitations: Sample size and heterogeneity of trauma-type may have impacted effect of PTSS on AB. 
 Conclusion: These results highlight the importance of assessing AB in varying contexts and examining generalizability across populations. Given prior research, the results also suggest that increased AB in PTSD may only be present for later attentional processes rather than early threat detection, at least with behavioral methods.'
 publication: '*Journal of Affective Disorders Reports*'
-url_pdf: 
+url_pdf: publication/Shenberger-2021-JAffDisRep/Shenberger_2021_JADR.pdf
 doi: 10.1016/j.jadr.2021.100193
 ---
