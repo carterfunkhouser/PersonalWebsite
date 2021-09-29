@@ -10,7 +10,7 @@ authors:
 - Ryne Estabrook
 - Stewart A. Shankman
 date: 2021-08-30T10:13:56-05:00
-# doi: "10.1037/abn0000687"
+doi: "10.1037/ABN0000687"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-30T10:13:56-05:00
@@ -42,7 +42,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-#url_pdf: publication/funkhouser-2021-HITOP-RDoC/Evaluating HiTOP validity across models.pdf
+url_pdf: publication/funkhouser-2021-HITOP-RDoC/Funkhouser 2021_JAP_HiTOP_RDoC.pdf
 url_preprint: https://psyarxiv.com/xp6h4
 url_code:
 url_dataset:
