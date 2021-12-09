@@ -6,7 +6,7 @@ title: Carter Funkhouser
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate in Clinical Psychology
+role: Doctoral Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
