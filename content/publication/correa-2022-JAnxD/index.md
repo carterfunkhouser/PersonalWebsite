@@ -18,7 +18,7 @@ tags:
 - '"Attentional bias"'
 - '"EMG startle"'
 categories: []
-date: '2021-12-08'
+date: '2022-1-01'
 lastmod: 2021-12-8T15:57:36-06:00
 featured: false
 draft: false
