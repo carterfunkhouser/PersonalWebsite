@@ -10,8 +10,8 @@ authors:
   - Stewart A. Shankman
 tags: []
 categories: []
-date: '2022-04-1'
-lastmod: 2022-03-1T1:57:34-06:00
+date: '2022-04-01'
+lastmod: 2022-04-01T1:57:34-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-30T21:57:34.665186Z'
+publishDate: '2021-04-1T21:57:34.665186Z'
 publication_types:
 - '2'
 abstract: 'The COVID-19 pandemic has been accompanied by unprecedented levels of stress and threats in a variety of domains (e.g., health, livelihood). Individual differences in threat reactivity may explain why some individuals are at elevated risk for the development or maintenance of psychopathology during the COVID-19 pandemic. This article describes several prominent models, mechanisms, and components of threat reactivity (e.g., appraisals, intolerance of uncertainty, avoidance) and discusses how they might help improve understanding of changes in psychopathology during and following the COVID-19 pandemic.'
