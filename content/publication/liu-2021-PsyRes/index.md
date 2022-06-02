@@ -39,6 +39,6 @@ url_preprint: https://psyarxiv.com/3qpjr/
 doi: 10.1016/j.psychres.2021.113931
 url_pdf: publication/liu-2021-PsyRes/Liu 2021_Set shifting inhibition.pdf
 links: 
-- name: Pubmed
+- name: PMC
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8141023/
 ---
