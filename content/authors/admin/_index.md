@@ -6,11 +6,11 @@ title: Carter Funkhouser
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Illinois at Chicago
+- name: Columbia University
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -18,9 +18,8 @@ organizations:
 # Interests to show in About widget
 interests:
  - Depression
- - Anxiety
  - Etiology
- - Vulnerability
+ - Risk
  - Psychometrics
 
 # Education to show in About widget
@@ -29,7 +28,7 @@ education:
   - course: PhD in Psychology
     institution: University of Illinois at Chicago
     year: 2022
-  - course: MA in Clinical Psychology
+  - course: MA in Psychology
     institution: University of Illinois at Chicago
     year: 2018
   - course: BA in Psychology (Applied Statistics minor)
