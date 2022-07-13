@@ -41,4 +41,5 @@ publication: '*Affective Science*'
 doi: 10.1007/s42761-022-00121-w
 url_pdf: publication/funkhouser-2022-AS/Funkhouser2022_AS.pdf
 url_preprint: https://doi.org/10.31234/osf.io/jwy43
+url_dataset: https://osf.io/8j3mw/
 ---
