@@ -43,5 +43,6 @@ url_pdf: publication/funkhouser-2020-JAP/Funkhouser 2020 JAP.pdf
 url_code: https://osf.io/k7yuz/
 url_dataset: https://osf.io/g9sdw/
 url_poster: publication/funkhouser-2020-JAP/ADAA 2019 Poster_final.pdf
+url_pubmed: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6980885/
 doi: 10.1037/abn0000496
 ---
