@@ -28,7 +28,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'The within-person level of the random intercept cross-lagged panel model. Significant paths (p<.05) are colored black, and nonsignificant paths are shaded gray. Residual variances and means are omitted. The latent variables represent a person’s score at a given timepoint relative to their own mean. The positive concurrent associations (denoted by curved arrows) indicate that individuals experiencing increased severity on one symptom dimension relative to their own mean were more likely to experience increased severity on the other dimensions at the same timepoint. Lagged associations (denoted by straight arrows) indicate the extent to which experiencing higher levels on one dimension relative to one’s mean predicted symptom dimension severities at the next timepoint. For example, the significant bidirectional cross-lagged associations between anhedonia and somatic symptoms indicate that individuals who reported more severe anhedonia than usual were more likely to report more severe somatic symptoms than usual at the next timepoint, and vice versa.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
