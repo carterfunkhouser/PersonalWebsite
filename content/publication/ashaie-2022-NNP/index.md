@@ -19,8 +19,8 @@ tags:
 - '"cross-lagged"'
 - '"longitudinal"'
 categories: []
-date: '2022-12-15'
-lastmod: 2022-12-14T15:57:36-06:00
+date: '2023-1-15'
+lastmod: 2023-1-14T15:57:36-06:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-15T21:57:35.769363Z'
+publishDate: '2023-1-15T21:57:35.769363Z'
 publication_types:
 - '2'
 abstract: 'Background:
@@ -56,6 +56,6 @@ There were reciprocal, within-person associations between somatic symptoms and a
 Conclusions:
 The reciprocal associations between somatic symptoms and anhedonia may reflect a “vicious cycle,” and suggest these 2 symptom dimensions may be useful indicators of risk and/or intervention targets. Regularly assessing depression symptoms starting during inpatient rehabilitation may help identify stroke survivors at risk for depression symptoms and facilitate early intervention.'
 publication: '*Neurorehabilitation and Neural Repair*'
-doi: 10.1177/1545968322114346
-url_pdf: publication/ashaie-2022-NNP/NNP_2022.pdf
+doi: 10.1177/15459683221143464
+url_pdf: publication/ashaie-2022-NNP/NNP_2023.pdf
 ---
