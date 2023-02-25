@@ -57,7 +57,7 @@ Conclusions:
 The reciprocal associations between somatic symptoms and anhedonia may reflect a “vicious cycle,” and suggest these 2 symptom dimensions may be useful indicators of risk and/or intervention targets. Regularly assessing depression symptoms starting during inpatient rehabilitation may help identify stroke survivors at risk for depression symptoms and facilitate early intervention.'
 publication: '*Neurorehabilitation and Neural Repair*'
 doi: 10.1177/15459683221143464
-url_pdf: publication/ashaie-2022-NNP/NNP_2023.pdf
+url_pdf: publication/ashaie-2023-NNP/NNP_2023.pdf
 links: 
 - name: Pubmed
   url: https://pubmed.ncbi.nlm.nih.gov/36524237/
