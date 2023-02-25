@@ -19,8 +19,8 @@ tags:
 - '"cross-lagged"'
 - '"longitudinal"'
 categories: []
-date: '2023-1-15'
-lastmod: 2023-1-14T15:57:36-06:00
+date: '2023-01-15'
+lastmod: 2023-01-14T15:57:36-06:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-1-15T21:57:35.769363Z'
+publishDate: '2023-01-15T21:57:35.769363Z'
 publication_types:
 - '2'
 abstract: 'Background:
