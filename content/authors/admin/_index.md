@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Carter Funkhouser
+title: Carter J. Funkhouser
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Scientist
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,9 @@ organizations:
 # Interests to show in About widget
 interests:
  - Depression
- - Etiology
  - Risk
- - Psychometrics
+ - Experience sampling
+ - Digital mental health
 
 # Education to show in About widget
 education:
@@ -42,13 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:carterfunkhouser@gmail.com'
+  link: 'mailto:carter.funkhouser@nyspi.columbia.edu'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pGX6j8UAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
+  - icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4033-8113
 - icon: osf
   icon_pack: ai
   link: https://osf.io/53e9m/
@@ -66,7 +69,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral research scientist in Dr. Randy Auerbach's [lab](https://auerbachlab.com/) in the Department of Psychiatry at Columbia University. My work broadly aims to identify etiological mechanisms and/or risk factors associated with depression and other internalizing psychopathologies. I have examined psychopathological dimensions at various levels of granularity (e.g., disorders, individual symptoms), often testing the specificity versus commonality of etiological mechanisms or risk factors. This line of research has been informed by research and issues related to the classification of psychopathology (e.g., the Hierarchical Taxonomy of Psychopathology [[HiTOP]](https://hitop.unt.edu/introduction)), and has examined biobehavioral processes represented in the Research Domain Criteria ([RDoC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc#framework-graphic)) such as reward processing and threat sensitivity. An additional line of research has considered the possibility that psychopathological (co)morbidity may arise from causal relationships between individual symptoms. 
-
-I have used a variety of methods to study these topics, including laboratory experiments, psychophysiology (e.g., event-related potentials), experience sampling, longitudinal statistical methods, structural equation modeling, network analysis, and behavior genetics.
+I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work generally aims to understand how, when, and why people experience depressive symptoms and related thoughts, feelings, and behaviors. Much of my work uses digital tools (e.g., smartphones) to detect and predict symptoms and related processes over relatively short timescales, with the goal of identifying novel targets and opportunities for early or just-in-time intervention. I am also interested in using digital mental health to make interventions more scalable, accessible, and/or effective. A third line of my research aims to identify risk factors that predict depression over longer timescales (e.g., years), which can help identify at-risk individuals early and inform preventative interventions. Broadly, my research is informed by alternative models of psychopathology (e.g., the Hierarchical Taxonomy of Psychopathology [[HiTOP]](https://hitop.unt.edu/introduction), network theory) and etiological factors (e.g., the Research Domain Criteria ([RDoC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc#framework-graphic))).
 
