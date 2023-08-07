@@ -49,9 +49,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
-  - icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-4033-8113
+#  - icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0003-4033-8113
 - icon: osf
   icon_pack: ai
   link: https://osf.io/53e9m/
