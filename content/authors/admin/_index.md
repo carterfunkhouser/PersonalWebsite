@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carter J. Funkhouser
+title: Carter Funkhouser
 
 # Is this the primary user of the site?
 superuser: true
@@ -49,9 +49,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carter_Funkhouser
-#  - icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0003-4033-8113
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4033-8113
 - icon: osf
   icon_pack: ai
   link: https://osf.io/53e9m/
@@ -69,5 +69,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work generally aims to understand how, when, and why people experience depressive symptoms and related thoughts, feelings, and behaviors. Much of my work uses digital tools (e.g., smartphones) to detect and predict symptoms and related processes over relatively short timescales, with the goal of identifying novel targets and opportunities for early or just-in-time intervention. I am also interested in using digital mental health to make interventions more scalable, accessible, and/or effective. A third line of my research aims to identify risk factors that predict depression over longer timescales (e.g., years), which can help identify at-risk individuals early and inform preventative interventions. Broadly, my research is informed by alternative models of psychopathology (e.g., the Hierarchical Taxonomy of Psychopathology [[HiTOP]](https://hitop.unt.edu/introduction), network theory, Research Domain Criteria [[RDoC]](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc#framework-graphic)).
+I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work generally aims to understand how, when, and why people experience depressive symptoms and related thoughts, feelings, and behaviors. Much of my work uses digital tools (e.g., smartphones) to detect and predict symptoms and related processes over relatively short timescales, with the goal of identifying novel targets and opportunities for early or just-in-time intervention. I am also interested in using digital mental health to make interventions more scalable, accessible, and/or effective. An additional line of my research aims to identify risk factors that predict depression over longer timescales (e.g., years) to help identify at-risk individuals earlier and inform preventative interventions. Broadly, my research is informed by alternative models of psychopathology, including the [Hierarchical Taxonomy of Psychopathology](https://hitop.unt.edu/introduction) (HiTOP), network theory, and the [Research Domain Criteria](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc#framework-graphic) (RDoC).
 
