@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Stressed out: Testing COVID-19's impact on the brain and depression'
 subtitle: ''
 summary: ''
