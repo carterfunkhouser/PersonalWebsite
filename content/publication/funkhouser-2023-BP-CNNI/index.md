@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Stressed Out: Testing COVID-19's impact on the brain and depression'
+title: 'Stressed out: Testing COVID-19's impact on the brain and depression'
 subtitle: ''
 summary: ''
 authors: 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-01T21:57:34.665186Z'
+publishDate: '2023-09-01'
 publication_types:
 - '2'
 abstract: 'Stress is a robust risk factor for depression and other psychopathologies, and reward responsiveness may play a role in its connection to depression (1). Many studies exploring this possibility have measured reward responsiveness using the reward positivity (RewP), an early event-related potential reflecting the difference in neural reactivity to rewards (e.g., monetary gain) versus nonrewards (e.g., monetary loss) (2). The RewP is positive in healthy control individuals (indicating greater reactivity to reward than nonreward) and is generally blunted in individuals with or at risk for depression (2), suggesting that blunted reward responsiveness may be involved in the etiology of depression. Moreover, the RewP can be blunted by acute laboratory stressors and may be blunted in individuals with greater exposure to naturalistic stressors (3). However, it is unclear whether naturalistic stressors causally contribute to decreases in the RewP because observational designs cannot rule out several plausible, noncausal explanations for their association.'
