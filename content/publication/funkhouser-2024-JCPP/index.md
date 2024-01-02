@@ -31,8 +31,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Lagged, within-person effects of  first-person singular pronoun usage in a prior week (week *t* - 1, week *t* - 2, etc.) on MDD risk this
-week (week *t*)'
+  caption: 'Lagged, within-person effects of  first-person singular pronoun usage in a prior week (week *t* - 1, week *t* - 2, etc.) on MDD risk this week (week *t*)'
   focal_point: ''
   preview_only: false
 
