@@ -20,7 +20,7 @@ authors:
 - Nicholas B. Allen
 - Stewart A. Shankman
 - Randy P. Auerbach
-tags: "adolescence", "depression", "e-health", "language", "longitudinal studies"
+tags: ["adolescence", "depression", "e-health", "language", "longitudinal studies"]
 categories: []
 date: '2024-01-01'
 lastmod: '2024-01-02T15:57:35-06:00'
