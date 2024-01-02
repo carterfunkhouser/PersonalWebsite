@@ -54,7 +54,6 @@ Conclusions: Passively monitoring use of first-person singular pronouns in adole
 publication: '*Journal of Child Psychology and Psychiatry*'
 url_pdf: publication/funkhouser-2024-JCPP/Funkhouser_2024_JCPP.pdf
 url_preprint: https://doi.org/10.31234/osf.io/cy7v4
-url_code: https://osf.io/paqj8/
 url_poster: publication/funkhouser-2024-JCPP/Funkhouser_SOBP2023poster.pdf
 doi: 10.1111/jcpp.13931
 links: 
