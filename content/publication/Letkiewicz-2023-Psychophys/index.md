@@ -20,7 +20,7 @@ authors:
 tags:
 categories: []
 date: '2023-12-23'
-lastmod: 2023-12-23T15:57:33-06:00
+lastmod: '2023-12-23T15:57:33-06:00'
 featured: false
 draft: false
 
