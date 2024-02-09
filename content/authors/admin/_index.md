@@ -19,8 +19,8 @@ organizations:
 interests:
  - Depression
  - Risk
- - Experience sampling
  - Digital mental health
+ - Experience sampling
 
 # Education to show in About widget
 education:
