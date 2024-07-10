@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Study Preregistration: Testing a Digital Suicide Risk Reduction Platform for Adolescents: A Pragmatic Randomized Controlled Trial'
+title: 'Study Preregistration: Testing a digital suicide risk reduction platform for adolescents: A pragmatic randomized controlled trial'
 subtitle: ''
 summary: ''
 authors:
