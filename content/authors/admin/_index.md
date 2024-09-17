@@ -18,9 +18,9 @@ organizations:
 # Interests to show in About widget
 interests:
  - Depression
- - Risk
  - Digital mental health
- - Experience sampling
+ - Intervention
+ - Early identification
 
 # Education to show in About widget
 education:
@@ -69,5 +69,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work generally aims to understand how, when, and why people experience depressive symptoms and related thoughts, feelings, and behaviors. Much of my work uses digital tools (e.g., smartphones) to detect and predict symptoms and related processes over relatively short timescales, with the goal of identifying novel targets and opportunities for early or just-in-time intervention. I am also interested in using digital mental health to make interventions more scalable, accessible, and/or effective. An additional line of my research aims to identify risk factors that predict depression over longer timescales (e.g., years) to help identify at-risk individuals earlier and inform preventative interventions. Broadly, my research is informed by alternative models of psychopathology, including the [Hierarchical Taxonomy of Psychopathology](https://hitop.unt.edu/introduction) (HiTOP), network theory, and the [Research Domain Criteria](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc#framework-graphic) (RDoC).
+I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work broadly aims to identify and support young people with or at risk for depression. Much of my work uses digital tools (e.g., smartphones) to detect and predict depressive symptoms over relatively short timescales, with the goal of identifying individuals with depression earlier and providing opportunities for early or just-in-time intervention. I also am developing and evaluating digital interventions for young people with depression to make evidence-based support more accessible and appealing to those who need it. 
 
