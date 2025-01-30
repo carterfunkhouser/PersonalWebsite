@@ -50,7 +50,7 @@ Conclusions: An app-based intervention using passive mobile sensing to track beh
 publication: '*JMIR Mental Health*'
 doi: 10.2196/51366
 url_pdf: publication/weiner-2024/Weiner2024.pdf
-# links: 
-# - name: Pubmed
-#  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11450360/
+links: 
+- name: Pubmed
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11450360/
 ---
