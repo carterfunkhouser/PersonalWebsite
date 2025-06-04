@@ -55,7 +55,7 @@ Vira has a high potential to improve patient engagement and improve clinical out
 publication: '*JMIR Formative Research*'
 doi: 10.2196/65418
 url_preprint: https://preprints.jmir.org/preprint/65418
-url_pdf: publication/tse-2025_JMIR_FormRes/Tse2025.pdf
+url_pdf: publication/tse-2025-JMIR_FormRes/Tse2025.pdf
 links: 
 - name: Pubmed
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12084771/
