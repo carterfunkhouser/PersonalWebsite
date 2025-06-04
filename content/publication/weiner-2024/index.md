@@ -49,6 +49,7 @@ Results: Both versions of Vira showed strong user engagement, acceptability, and
 Conclusions: An app-based intervention using passive mobile sensing to track behavior and deliver personalized insights into behavior-mood associations demonstrated feasibility, acceptability, and preliminary effectiveness for reducing depressive symptoms and other mental health problems in young adults. Future directions include (1) optimizing the interventions, (2) conducting a fully powered trial that includes an active control condition, and (3) testing mediators and moderators of outcome effects.'
 publication: '*JMIR Mental Health*'
 doi: 10.2196/51366
+url_preprint: https://preprints.jmir.org/preprint/51366
 url_pdf: publication/weiner-2024/Weiner2024.pdf
 links: 
 - name: Pubmed
