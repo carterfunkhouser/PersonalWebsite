@@ -6,7 +6,7 @@ title: Carter Funkhouser
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,5 +69,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work broadly aims to identify and support young people with or at risk for depression. Much of my work uses digital tools (e.g., smartphones) to detect and predict depressive symptoms over relatively short timescales, with the goal of identifying individuals with depression earlier and providing opportunities for early or just-in-time intervention. I also am developing and evaluating digital interventions for young people with depression to make evidence-based support more accessible and appealing to those who need it. 
+I am an assistant professor in the Department of Psychiatry at Columbia University working with Dr. Randy Auerbach. My work broadly aims to identify and support young people with or at risk for depression. Much of my work uses digital tools (e.g., smartphones) to detect and predict depressive symptoms over relatively short timescales, with the goal of identifying individuals with depression earlier and providing opportunities for early or just-in-time intervention. I also am developing and evaluating digital interventions for young people with depression to make evidence-based support more accessible and appealing to those who need it. 
 
